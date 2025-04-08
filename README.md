@@ -26,9 +26,12 @@ TINDOG/
 ├── css/
 │   └── style.css
 ├── images/
+│   ├── bizinsider.png
 │   ├── dog-img.jpg
-│   ├── logo.png
-│   └── ...other assets
+│   ├── iphone.png
+│   ├── mashable.png
+│   ├── techcrunch.png
+│   └── tnw.png
 ├── index.html
 └── README.md
 ```
