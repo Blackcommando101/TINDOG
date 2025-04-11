@@ -62,11 +62,5 @@ Follow these steps to run the project locally:
 - **GitHub**: [Blackcommando101](https://github.com/Blackcommando101)
 - **LinkedIn**: [Razeel Kapdi](https://www.linkedin.com/in/razeel-kapdi-698955267/)
 - **Email**: razeelkapdi2003@gmail.com
-
-## 📃 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
+  
 Feel free to use, modify, and share!
