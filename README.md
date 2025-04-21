@@ -55,12 +55,12 @@ Follow these steps to run the project locally:
    open index.html
    ```
 
-## ✍️ Author
+## 👨‍💻 Developer
 
 **Razeel Kapdi**
 
 - **GitHub**: [Blackcommando101](https://github.com/Blackcommando101)
 - **LinkedIn**: [Razeel Kapdi](https://www.linkedin.com/in/razeel-kapdi-698955267/)
 - **Email**: razeelkapdi2003@gmail.com
-  
+
 Feel free to use, modify, and share!
